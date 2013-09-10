@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\bin\Debug\CountLetters.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\bin\Debug\CountLetters.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\bin\Debug\CountLetters.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\obj\Debug\CountLetters.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\obj\Debug\CountLetters.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\obj\Debug\CountLetters.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\CountLetters\CountLetters\obj\Debug\CountLetters.pdb

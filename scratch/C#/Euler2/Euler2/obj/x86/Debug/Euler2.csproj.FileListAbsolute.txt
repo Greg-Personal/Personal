@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler2\Euler2\bin\Debug\Euler2.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler2\Euler2\bin\Debug\Euler2.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler2\Euler2\obj\x86\Debug\Euler2.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler2\Euler2\obj\x86\Debug\Euler2.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler2\Euler2\obj\x86\Debug\Euler2.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler2\Euler2\obj\x86\Debug\Euler2.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler2\Euler2\obj\x86\Debug\Euler2.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler2\Euler2\obj\x86\Debug\Euler2.pdb

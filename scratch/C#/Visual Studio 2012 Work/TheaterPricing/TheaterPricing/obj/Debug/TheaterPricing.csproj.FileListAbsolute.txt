@@ -1,0 +1,9 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\bin\Debug\TheaterPricing.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\bin\Debug\TheaterPricing.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\bin\Debug\TheaterPricing.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\obj\Debug\TheaterPricing.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\obj\Debug\TheaterPricing.Form1.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\obj\Debug\TheaterPricing.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\obj\Debug\TheaterPricing.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\obj\Debug\TheaterPricing.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TheaterPricing\TheaterPricing\obj\Debug\TheaterPricing.pdb

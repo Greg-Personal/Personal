@@ -1,0 +1,4 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\CokeMachine\CokeMachine\bin\Debug\CokeMachine.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\CokeMachine\CokeMachine\bin\Debug\CokeMachine.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\CokeMachine\CokeMachine\obj\x86\Debug\CokeMachine.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\CokeMachine\CokeMachine\obj\x86\Debug\CokeMachine.pdb

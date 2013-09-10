@@ -1,0 +1,6 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler 5\Euler 5\bin\Debug\Euler 5.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler 5\Euler 5\bin\Debug\Euler 5.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\Euler_5.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\Euler 5.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\Euler 5.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler 5\Euler 5\obj\x86\Debug\Euler 5.pdb

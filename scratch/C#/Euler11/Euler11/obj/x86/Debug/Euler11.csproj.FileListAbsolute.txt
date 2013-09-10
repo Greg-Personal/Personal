@@ -1,0 +1,9 @@
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\Euler11.Form1.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\Euler11.Properties.Resources.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\bin\Debug\Euler11.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\bin\Debug\Euler11.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\Euler11.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler11\Euler11\obj\x86\Debug\Euler11.pdb

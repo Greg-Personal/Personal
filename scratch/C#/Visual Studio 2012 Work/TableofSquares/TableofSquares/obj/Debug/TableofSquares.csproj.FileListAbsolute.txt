@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\bin\Debug\TableofSquares.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\bin\Debug\TableofSquares.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\bin\Debug\TableofSquares.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\obj\Debug\TableofSquares.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\obj\Debug\TableofSquares.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\obj\Debug\TableofSquares.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofSquares\TableofSquares\obj\Debug\TableofSquares.pdb

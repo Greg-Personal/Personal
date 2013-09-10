@@ -1,0 +1,6 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\Calculator3.0\Calculator3.0\bin\Debug\Calculator3.0.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Calculator3.0\Calculator3.0\bin\Debug\Calculator3.0.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\Calculator3.0\Calculator3.0\obj\x86\Debug\Calculator3._0.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2010\Projects\Calculator3.0\Calculator3.0\obj\x86\Debug\Calculator3.0.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2010\Projects\Calculator3.0\Calculator3.0\obj\x86\Debug\Calculator3.0.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Calculator3.0\Calculator3.0\obj\x86\Debug\Calculator3.0.pdb

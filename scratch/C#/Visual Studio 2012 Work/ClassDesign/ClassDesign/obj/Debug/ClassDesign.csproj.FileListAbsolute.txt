@@ -1,0 +1,11 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\bin\Debug\ClassDesign.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\obj\Debug\ClassDesign.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\bin\Debug\ClassDesign.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\bin\Debug\ClassDesign.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\obj\Debug\ClassDesign.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\obj\Debug\ClassDesign.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\ClassDesign\ClassDesign\obj\Debug\ClassDesign.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\ClassDesign\ClassDesign\bin\Debug\ClassDesign.exe.config
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\ClassDesign\ClassDesign\obj\Debug\ClassDesign.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\ClassDesign\ClassDesign\obj\Debug\ClassDesign.pdb

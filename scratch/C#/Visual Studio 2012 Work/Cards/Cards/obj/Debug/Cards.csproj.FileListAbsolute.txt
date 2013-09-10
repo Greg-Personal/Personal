@@ -1,0 +1,5 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\Cards\Cards\bin\Debug\Cards.dll
+c:\users\garmbruster\documents\visual studio 2012\Projects\Cards\Cards\bin\Debug\Cards.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\Cards\Cards\obj\Debug\Cards.dll
+c:\users\garmbruster\documents\visual studio 2012\Projects\Cards\Cards\obj\Debug\Cards.pdb

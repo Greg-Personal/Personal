@@ -1,0 +1,6 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler6\Euler6\bin\Debug\Euler6.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler6\Euler6\bin\Debug\Euler6.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler6\Euler6\obj\x86\Debug\Euler6.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler6\Euler6\obj\x86\Debug\Euler6.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler6\Euler6\obj\x86\Debug\Euler6.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler6\Euler6\obj\x86\Debug\Euler6.pdb

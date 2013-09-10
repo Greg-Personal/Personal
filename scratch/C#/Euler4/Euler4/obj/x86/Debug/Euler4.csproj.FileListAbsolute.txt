@@ -1,0 +1,23 @@
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\AppDev\Labs\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\AppDev\Labs\Euler4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\AppDev\Labs\Euler4\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\AppDev\Labs\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\AppDev\Labs\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\obj\x86\Debug\Euler4.csprojResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler4\Euler4\obj\x86\Debug\Euler4.csproj.GenerateResource.Cache
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler4\Euler4\obj\x86\Debug\WindowsFormsApplication1.pdb

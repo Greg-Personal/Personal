@@ -1,0 +1,9 @@
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\bin\Debug\Euler9.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\bin\Debug\Euler9.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\Euler9.Form1.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\Euler9.Properties.Resources.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\Euler9.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler9\Euler9\obj\x86\Debug\Euler9.pdb

@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\bin\Debug\DuplicateRandomNumbers.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\bin\Debug\DuplicateRandomNumbers.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\bin\Debug\DuplicateRandomNumbers.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\obj\Debug\DuplicateRandomNumbers.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\obj\Debug\DuplicateRandomNumbers.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\obj\Debug\DuplicateRandomNumbers.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\DuplicateRandomNumbers\DuplicateRandomNumbers\obj\Debug\DuplicateRandomNumbers.pdb

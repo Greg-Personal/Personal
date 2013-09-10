@@ -1,0 +1,10 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\InBetween\InBetween\bin\Debug\InBetween.exe.config
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\obj\Debug\InBetween.csprojResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\obj\Debug\frmMain.resources
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\obj\Debug\InBetween.csproj.GenerateResource.Cache
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\bin\Debug\InBetween.exe
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\bin\Debug\InBetween.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\obj\Debug\InBetween.exe
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\obj\Debug\InBetween.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\bin\Debug\Cards.dll
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\InBetween\InBetween\bin\Debug\Cards.pdb

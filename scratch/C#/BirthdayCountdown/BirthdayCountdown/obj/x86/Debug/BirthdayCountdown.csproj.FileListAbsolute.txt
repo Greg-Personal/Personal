@@ -1,0 +1,4 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\BirthdayCountdown\BirthdayCountdown\bin\Debug\BirthdayCountdown.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\BirthdayCountdown\BirthdayCountdown\bin\Debug\BirthdayCountdown.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\BirthdayCountdown\BirthdayCountdown\obj\x86\Debug\BirthdayCountdown.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\BirthdayCountdown\BirthdayCountdown\obj\x86\Debug\BirthdayCountdown.pdb

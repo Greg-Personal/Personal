@@ -1,0 +1,18 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\bin\Debug\Euler3.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\bin\Debug\Euler3.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\Euler3.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\Euler3.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\Euler3.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Euler3\Euler3\obj\x86\Debug\Euler3.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler3\Euler3\obj\x86\Debug\Euler3.exe
+C:\Users\garmbruster\Documents\Visual Studio 2012\Projects\Euler3\Euler3\obj\x86\Debug\Euler3.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\obj\x86\Debug\Euler3.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\obj\x86\Debug\Euler3.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\bin\Debug\Euler3.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\bin\Debug\Euler3.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\obj\x86\Debug\Euler3.Form1.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\obj\x86\Debug\Euler3.Properties.Resources.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler3\Euler3\obj\x86\Debug\Euler3.csproj.GenerateResource.Cache

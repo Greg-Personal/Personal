@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\bin\Debug\InterestRates.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\obj\Debug\InterestRates.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\obj\Debug\InterestRates.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\bin\Debug\InterestRates.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\bin\Debug\InterestRates.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\obj\Debug\InterestRates.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\InterestRates\InterestRates\obj\Debug\InterestRates.pdb

@@ -1,0 +1,7 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\bin\Debug\DateTimeTester.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\bin\Debug\DateTimeTester.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\bin\Debug\DateTimeTester.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\obj\Debug\DateTimeTester.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\obj\Debug\DateTimeTester.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\DateTimeTester\DateTimeTester\obj\Debug\DateTimeTester.pdb

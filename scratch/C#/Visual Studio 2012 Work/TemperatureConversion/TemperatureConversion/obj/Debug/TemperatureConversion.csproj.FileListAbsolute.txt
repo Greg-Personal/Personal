@@ -1,0 +1,7 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TemperatureConversion\TemperatureConversion\obj\Debug\TemperatureConversion.pdb

@@ -1,0 +1,9 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\bin\Debug\DebugTesting.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\bin\Debug\DebugTesting.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\bin\Debug\DebugTesting.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\obj\Debug\DebugTesting.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\obj\Debug\DebugTesting.Form1.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\obj\Debug\DebugTesting.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\obj\Debug\DebugTesting.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\obj\Debug\DebugTesting.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\DebugTesting\DebugTesting\obj\Debug\DebugTesting.pdb

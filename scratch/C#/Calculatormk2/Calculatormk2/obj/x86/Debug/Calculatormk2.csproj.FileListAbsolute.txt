@@ -1,0 +1,14 @@
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\bin\Debug\Calculatormk2.exe
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\bin\Debug\Calculatormk2.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\obj\x86\Debug\frmMain.resources
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\obj\x86\Debug\Calculatormk2.exe
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculatormk2\Calculatormk2\obj\x86\Debug\Calculatormk2.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculatormk2\Calculatormk2\obj\x86\Debug\Calculatormk2.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculatormk2\Calculatormk2\obj\x86\Debug\Calculatormk2.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculatormk2\Calculatormk2\bin\Debug\Calculatormk2.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculatormk2\Calculatormk2\bin\Debug\Calculatormk2.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculatormk2\Calculatormk2\obj\x86\Debug\frmMain.resources
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculatormk2\Calculatormk2\obj\x86\Debug\Calculatormk2.csproj.GenerateResource.Cache

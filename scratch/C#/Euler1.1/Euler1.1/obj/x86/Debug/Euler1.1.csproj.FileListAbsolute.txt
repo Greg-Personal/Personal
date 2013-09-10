@@ -1,0 +1,11 @@
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\Euler1._1.Form1.resources
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\Euler1._1.Properties.Resources.resources
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\bin\Debug\Euler1.1.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\bin\Debug\Euler1.1.pdb
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\Euler1.1.exe
+c:\users\garmbruster\documents\visual studio 2010\Projects\Euler1.1\Euler1.1\obj\x86\Debug\Euler1.1.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler1.1\Euler1.1\obj\x86\Debug\Euler1.1.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Euler1.1\Euler1.1\obj\x86\Debug\Euler1.1.pdb

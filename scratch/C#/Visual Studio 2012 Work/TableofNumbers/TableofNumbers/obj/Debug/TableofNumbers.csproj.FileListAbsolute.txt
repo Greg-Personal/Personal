@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\bin\Debug\TableofNumbers.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\bin\Debug\TableofNumbers.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\bin\Debug\TableofNumbers.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\obj\Debug\TableofNumbers.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\obj\Debug\TableofNumbers.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\obj\Debug\TableofNumbers.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\TableofNumbers\TableofNumbers\obj\Debug\TableofNumbers.pdb

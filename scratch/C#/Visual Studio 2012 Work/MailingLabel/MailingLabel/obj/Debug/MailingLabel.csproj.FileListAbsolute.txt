@@ -1,0 +1,8 @@
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\bin\Debug\MailingLabel.exe.config
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\bin\Debug\MailingLabel.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\bin\Debug\MailingLabel.pdb
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.csprojResolveAssemblyReference.cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\obj\Debug\frmMain.resources
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.csproj.GenerateResource.Cache
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.exe
+c:\users\garmbruster\documents\visual studio 2012\Projects\MailingLabel\MailingLabel\obj\Debug\MailingLabel.pdb

@@ -1,0 +1,8 @@
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\bin\Debug\GenericConsoleApp.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\bin\Debug\GenericConsoleApp.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\obj\x86\Debug\GenericConsoleApp.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\GenericConsoleApp\GenericConsoleApp\obj\x86\Debug\GenericConsoleApp.pdb

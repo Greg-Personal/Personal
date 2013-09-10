@@ -1,0 +1,10 @@
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\frmMain.resources
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\garmbruster\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\garmbruster\Documents\GitHub\ops-devops\scratch\GregA\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
